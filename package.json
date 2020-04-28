@@ -1,0 +1,21 @@
+{
+    "name": "node-backend",
+    "version": "1.0.0",
+    "description": "Test Project to create models, routers, controllers.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "REST API",
+        "MYSQL",
+        "NodeJs"
+    ],
+    "author": "Michael S. ",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "multer": "^1.4.2",
+        "mysql": "^2.18.1"
+    }
+}
